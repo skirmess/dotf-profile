@@ -1,0 +1,5 @@
+
+alias vix=gvim
+alias l='ls -al'
+alias ..='cd ..'
+
